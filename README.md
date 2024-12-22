@@ -3,7 +3,10 @@
 This project is a simple yet effective dashboard system for managing student-teacher interactions in an educational environment. It includes three main roles: **Admin**, **Teacher**, and **Student**, each with unique dashboards and functionalities.
 
 ## Features
-
+### Username and passwords:
+- **Admin** : Username = admin1  , password = admin123.
+- **teacher** : Username = teacher1  , password = teacher123.
+- **student** : Username = student1  , password = student123.
 ### Admin Dashboard:
 - **Manage Records**: Add, edit, or delete student and teacher profiles.
 - **Create Credentials**: Generate secure login credentials for users.
